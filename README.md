@@ -20,7 +20,9 @@ A seguir será mostrado, todas as funcionalidades presentes no projeto e suas re
 # Todas as Funcionalidades
 
 Resultado da Funcionalidade: Somar [NÚMERO 1]:
-x
+
+![a](https://user-images.githubusercontent.com/84475339/165632292-0e07a541-136d-4c4d-acfc-71c71615b3fb.png)
+
 Resultado da Funcionalidade: Multiplicar [NÚMERO 2]:
 x
 Resultado da Funcionalidade: Subtração(Maior pelo Menor) [NÚMERO 3]:
