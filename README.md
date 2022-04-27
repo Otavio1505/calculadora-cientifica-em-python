@@ -13,7 +13,7 @@ Após a entrada dos dois valores, é aberto um Menu de Funcionalidades, onde ser
 
 ![a](https://user-images.githubusercontent.com/84475339/165630034-d21ad542-21a6-4c82-9777-a769136321c1.png)
 
-Todas as opções exceto a 18 (Encerramento do programa) após o retorno dos resultados que a funcionalidade oferece, o programa é automaticamente reiniciado, tendo seu término sucedido apenas quando o usuário digitar o número: '18' no input do Menu de Funcionalidades.
+Todas as opções, exceto a 18 (Encerramento do programa), após o retorno dos resultados que a funcionalidade oferece, o programa é automaticamente reiniciado, tendo seu término sucedido apenas quando o usuário digitar o número: '18' no input do Menu de Funcionalidades.
 
 A seguir será mostrado, todas as funcionalidades presentes no projeto e suas respectivas respostas.
 
