@@ -24,12 +24,17 @@ Resultado da Funcionalidade: Somar [NÚMERO 1]:
 ![a](https://user-images.githubusercontent.com/84475339/165632292-0e07a541-136d-4c4d-acfc-71c71615b3fb.png)
 
 Resultado da Funcionalidade: Multiplicar [NÚMERO 2]:
-x
+
+![image](https://user-images.githubusercontent.com/84475339/165849477-4f9ae453-5d55-49cb-9434-dbe443cbfe4e.png)
+
 Resultado da Funcionalidade: Subtração(Maior pelo Menor) [NÚMERO 3]:
-*digitar adendo
-x
+*Comentário: A subtração só será realizada do MAIOR número para o Menor número, sendo incapaz a geração de um resultado negativo.
+![a](https://user-images.githubusercontent.com/84475339/165849617-6198524b-e329-4c3d-b437-142f33f7625e.png)
+
 Resultado da Funcionalidade: Média [NÚMERO 4]:
-x
+
+![a](https://user-images.githubusercontent.com/84475339/165850147-a6a764a1-a5ed-444c-8055-e98897caa617.png)
+
 Resultado da Funcionalidade: Maior número e Menor número [NÚMERO 5]:
 x
 Resultado da Funcionalidade: Divisão(Maior/Menor) [NÚMERO 6]:
