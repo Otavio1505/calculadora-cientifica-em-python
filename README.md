@@ -27,11 +27,11 @@ Resultado da Funcionalidade: Multiplicar [NÚMERO 2]:
 
 ![image](https://user-images.githubusercontent.com/84475339/165849477-4f9ae453-5d55-49cb-9434-dbe443cbfe4e.png)
 
-Resultado da Funcionalidade: Subtração(Maior pelo Menor) [NÚMERO 3]:
+Resultado da Funcionalidade: Subtração [NÚMERO 3]:
 
-*Comentário: A subtração só será realizada do MAIOR número para o Menor número, sendo incapaz a geração de um resultado negativo.
+*Comentário: Será subtraído o primeiro valor digitado, pelo segundo valor digitado, podendo assim gerar resultado negativos, portanto atenção.
 
-![a](https://user-images.githubusercontent.com/84475339/165849617-6198524b-e329-4c3d-b437-142f33f7625e.png)
+![a](https://user-images.githubusercontent.com/84475339/165850728-9ed3b9e9-860e-47be-8d65-88900eb1c836.png)
 
 Resultado da Funcionalidade: Média [NÚMERO 4]:
 
