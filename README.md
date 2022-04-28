@@ -11,7 +11,7 @@ O programa trabalha com 2 inputs numéricos, na qual todas as funcionalidades of
 
 Após a entrada dos dois valores, é aberto um Menu de Funcionalidades, onde será aberto um novo input e o usuário irá digitar o número que corresponde a funcionalidade desejada.
 
-![a](https://user-images.githubusercontent.com/84475339/165630034-d21ad542-21a6-4c82-9777-a769136321c1.png)
+![a](https://user-images.githubusercontent.com/84475339/165851556-aeaefe88-d4e4-4865-b0d5-74a7f3706887.png)
 
 Todas as opções, exceto a 18 (Encerramento do programa), após o retorno dos resultados que a funcionalidade oferece, o programa é automaticamente reiniciado, tendo seu término sucedido apenas quando o usuário digitar o número: '18' no input do Menu de Funcionalidades.
 
