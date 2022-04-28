@@ -29,6 +29,7 @@ Resultado da Funcionalidade: Multiplicar [NÚMERO 2]:
 
 Resultado da Funcionalidade: Subtração(Maior pelo Menor) [NÚMERO 3]:
 *Comentário: A subtração só será realizada do MAIOR número para o Menor número, sendo incapaz a geração de um resultado negativo.
+
 ![a](https://user-images.githubusercontent.com/84475339/165849617-6198524b-e329-4c3d-b437-142f33f7625e.png)
 
 Resultado da Funcionalidade: Média [NÚMERO 4]:
