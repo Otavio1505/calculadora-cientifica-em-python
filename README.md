@@ -19,25 +19,25 @@ A seguir será mostrado, todas as funcionalidades presentes no projeto e suas re
 
 # Todas as Funcionalidades
 
-Resultado da Funcionalidade: Somar [NÚMERO 1]:
+● Resultado da Funcionalidade: Somar [NÚMERO 1]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165632292-0e07a541-136d-4c4d-acfc-71c71615b3fb.png)
 
-Resultado da Funcionalidade: Multiplicar [NÚMERO 2]:
+● Resultado da Funcionalidade: Multiplicar [NÚMERO 2]:
 
 ![image](https://user-images.githubusercontent.com/84475339/165849477-4f9ae453-5d55-49cb-9434-dbe443cbfe4e.png)
 
-Resultado da Funcionalidade: Subtração [NÚMERO 3]:
+● Resultado da Funcionalidade: Subtração [NÚMERO 3]:
 
 *Comentário: Será subtraído o primeiro valor digitado, pelo segundo valor digitado, podendo assim gerar resultado negativos, portanto atenção.
 
 ![a](https://user-images.githubusercontent.com/84475339/165850728-9ed3b9e9-860e-47be-8d65-88900eb1c836.png)
 
-Resultado da Funcionalidade: Média [NÚMERO 4]:
+● Resultado da Funcionalidade: Média [NÚMERO 4]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165850147-a6a764a1-a5ed-444c-8055-e98897caa617.png)
 
-Resultado da Funcionalidade: Maior número e Menor número [NÚMERO 5]:
+● Resultado da Funcionalidade: Maior número e Menor número [NÚMERO 5]:
 x
 Resultado da Funcionalidade: Divisão(Maior/Menor) [NÚMERO 6]:
 *digitar adendo
