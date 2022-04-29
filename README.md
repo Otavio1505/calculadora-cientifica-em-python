@@ -38,7 +38,9 @@ A seguir será mostrado, todas as funcionalidades presentes no projeto e suas re
 ![a](https://user-images.githubusercontent.com/84475339/165850147-a6a764a1-a5ed-444c-8055-e98897caa617.png)
 
 ● Resultado da Funcionalidade: Maior número e Menor número [NÚMERO 5]:
-x
+
+![a](https://user-images.githubusercontent.com/84475339/165993719-33c6b8d5-0eda-4621-aed2-f19b086a5fee.png)
+
 Resultado da Funcionalidade: Divisão(Maior/Menor) [NÚMERO 6]:
 *digitar adendo
 Resultado da Funcionalidade: Fatorial [NÚMERO 7]:
