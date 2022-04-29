@@ -29,7 +29,7 @@ A seguir será mostrado, todas as funcionalidades presentes no projeto e suas re
 
 ● Resultado da Funcionalidade: Subtração [NÚMERO 3]:
 
-*Comentário: Será subtraído o primeiro valor digitado, pelo segundo valor digitado, podendo assim gerar resultado negativos, portanto atenção.
+  *Comentário: Será subtraído o primeiro valor digitado, pelo segundo valor digitado, podendo assim gerar resultado negativos, portanto atenção.
 
 ![a](https://user-images.githubusercontent.com/84475339/165850728-9ed3b9e9-860e-47be-8d65-88900eb1c836.png)
 
@@ -43,7 +43,7 @@ A seguir será mostrado, todas as funcionalidades presentes no projeto e suas re
 
 Resultado da Funcionalidade: Divisão(Maior/Menor) [NÚMERO 6]:
 
-*Comentário: A divisão irá considerá o maior número como o Numerador e o menor número como o Denominador.
+  *Comentário: A divisão irá considerá o maior número como o Numerador e o menor número como o Denominador.
 
 ![a](https://user-images.githubusercontent.com/84475339/165994254-899a4a76-5fd9-4ff3-9e69-6d2180982bcc.png)
 
@@ -65,7 +65,7 @@ Resultado da Funcionalidade: Tabuada [NÚMERO 10]:
 
 Resultado da Funcionalidade: X° para Radiano // X° para Radiano [NÚMERO 11]:
 
-*Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
+  *Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
 
 ![a](https://user-images.githubusercontent.com/84475339/165997254-9328818b-2647-40d6-bc30-dd270eb9cf1e.png)
 
@@ -78,7 +78,8 @@ Resultado da Funcionalidade: Calcular Hipotenusa [NÚMERO 13]:
 ![a](https://user-images.githubusercontent.com/84475339/165997752-d0276549-d91a-4def-a049-6a4ed3c3cc32.png)
 
 Resultado da Funcionalidade: Fibonacci [NÚMERO 14]:
-*Comentário: Os valores digitados pelo usuário serão referentes a quantidade de números da sequência de Fibonacci que serão digitados, como no exemplo, os inputs digitados foram: 8 e 5, dessa forma, serão impressos os 8 primeiros números da sequência no primeiro resultado e os 5 primeiros números da sequência de Fibonacci no segundo resultado.
+
+  *Comentário: Os valores digitados pelo usuário serão referentes a quantidade de números da sequência de Fibonacci que serão digitados, como no exemplo, os inputs digitados foram: 8 e 5, dessa forma, serão impressos os 8 primeiros números da sequência no primeiro resultado e os 5 primeiros números da sequência de Fibonacci no segundo resultado.
 
 ![a](https://user-images.githubusercontent.com/84475339/165998142-7e5700be-76a8-465d-b79f-4797f002c7d1.png)
 
