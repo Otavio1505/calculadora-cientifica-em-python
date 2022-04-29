@@ -143,7 +143,7 @@ Encerramento do programa.
 
 Caso o usuário digite um número que não condiz com uma funcionalidade apresentada no Menu, será impresso um aviso, e será retornado ao início do programa automaticamente.
 
-![a](https://user-images.githubusercontent.com/84475339/166001046-cbd5dcb2-0627-4da4-8155-d931d3f536b1.png)
+![a](https://user-images.githubusercontent.com/84475339/166001649-94aaf85b-7dd8-4862-8c8e-ff4604ee545b.png)
 
 # Autor
 Otávio Moraes Braga
