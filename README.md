@@ -33,77 +33,107 @@ A seguir será mostrado, todas as funcionalidades presentes no projeto e suas re
 
 ● Resultado da Funcionalidade: Subtração [NÚMERO 3]:
 
-*Comentário: Será subtraído o primeiro valor digitado, pelo segundo valor digitado, podendo assim gerar resultado negativos, portanto atenção.
+→ Comentário: Será subtraído o primeiro valor digitado, pelo segundo valor digitado, podendo assim gerar resultado negativos, portanto atenção.
 
 ![a](https://user-images.githubusercontent.com/84475339/165850728-9ed3b9e9-860e-47be-8d65-88900eb1c836.png)
+
+=================================================================
 
 ● Resultado da Funcionalidade: Média [NÚMERO 4]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165850147-a6a764a1-a5ed-444c-8055-e98897caa617.png)
 
+=================================================================
+
 ● Resultado da Funcionalidade: Maior número e Menor número [NÚMERO 5]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165994165-daa6c294-f6c4-4523-a7dd-b21f968c94bf.png)
 
-Resultado da Funcionalidade: Divisão(Maior/Menor) [NÚMERO 6]:
+=================================================================
 
-*Comentário: A divisão irá considerá o maior número como o Numerador e o menor número como o Denominador.
+● Resultado da Funcionalidade: Divisão(Maior/Menor) [NÚMERO 6]:
+
+→ Comentário: A divisão irá considerá o maior número como o Numerador e o menor número como o Denominador.
 
 ![a](https://user-images.githubusercontent.com/84475339/165994254-899a4a76-5fd9-4ff3-9e69-6d2180982bcc.png)
 
-Resultado da Funcionalidade: Fatorial [NÚMERO 7]:
+=================================================================
+
+● Resultado da Funcionalidade: Fatorial [NÚMERO 7]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165994524-11edca17-608c-4d92-8b12-71a5b4bfcff5.png)
 
-Resultado da Funcionalidade: Raiz Quadrada [NÚMERO 8]:
+=================================================================
+
+● Resultado da Funcionalidade: Raiz Quadrada [NÚMERO 8]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165996198-a74c4497-ab59-434b-b0ac-7d4bd656b328.png)
 
-Resultado da Funcionalidade: Elevado ao Quadrado/Cubo [NÚMERO 9]:
+=================================================================
+
+● Resultado da Funcionalidade: Elevado ao Quadrado/Cubo [NÚMERO 9]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165996289-1780d76b-bc4b-4f5f-b44e-1169bb2b5a1a.png)
 
-Resultado da Funcionalidade: Tabuada [NÚMERO 10]:
+=================================================================
+
+● Resultado da Funcionalidade: Tabuada [NÚMERO 10]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165996445-5abcc764-2276-4d8f-9827-162861a7e313.png)
 
-Resultado da Funcionalidade: X° para Radiano // X° para Radiano [NÚMERO 11]:
+=================================================================
 
-*Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
+● Resultado da Funcionalidade: X° para Radiano // X° para Radiano [NÚMERO 11]:
+
+→ Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
 
 ![a](https://user-images.githubusercontent.com/84475339/165997254-9328818b-2647-40d6-bc30-dd270eb9cf1e.png)
 
-Resultado da Funcionalidade: Seno/Cosseno/Tangente [NÚMERO 12]:
+=================================================================
+
+● Resultado da Funcionalidade: Seno/Cosseno/Tangente [NÚMERO 12]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165997473-963bc472-7bc1-47cd-8529-850dd88d167e.png)
 
-Resultado da Funcionalidade: Calcular Hipotenusa [NÚMERO 13]:
+=================================================================
+
+● Resultado da Funcionalidade: Calcular Hipotenusa [NÚMERO 13]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165997752-d0276549-d91a-4def-a049-6a4ed3c3cc32.png)
 
-Resultado da Funcionalidade: Fibonacci [NÚMERO 14]:
+=================================================================
 
-*Comentário: Os valores digitados pelo usuário serão referentes a quantidade de números da sequência de Fibonacci que serão impressos, como no exemplo, os inputs digitados foram: 8 e 5, dessa forma, serão impressos os 8 primeiros números da sequência no primeiro resultado e os 5 primeiros números da sequência de Fibonacci no segundo resultado.
+● Resultado da Funcionalidade: Fibonacci [NÚMERO 14]:
+
+→ Comentário: Os valores digitados pelo usuário serão referentes a quantidade de números da sequência de Fibonacci que serão impressos, como no exemplo, os inputs digitados foram: 8 e 5, dessa forma, serão impressos os 8 primeiros números da sequência no primeiro resultado e os 5 primeiros números da sequência de Fibonacci no segundo resultado.
 
 ![a](https://user-images.githubusercontent.com/84475339/165998142-7e5700be-76a8-465d-b79f-4797f002c7d1.png)
 
-Resultado da Funcionalidade: Converter X°C e X°C para Fahrenheit [NÚMERO 15]:
+=================================================================
 
-*Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
+● Resultado da Funcionalidade: Converter X°C e X°C para Fahrenheit [NÚMERO 15]:
+
+→ Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
 
 ![a](https://user-images.githubusercontent.com/84475339/165998927-22bf6994-3416-48a2-ae67-34fff66cc39a.png)
 
-Resultado da Funcionalidade: Mais informações [NÚMERO 16]:
+=================================================================
+
+● Resultado da Funcionalidade: Mais informações [NÚMERO 16]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165999386-560a7296-64a2-4ecf-ac3c-3a36f6b8a88c.png)
 
-Resultado da Funcionalidade: Novos Números [NÚMERO 17]:
+=================================================================
 
-*Comentário: Esta funcionalidade retorna ao input de entrada de valores perguntado ao início do programa.
+● Resultado da Funcionalidade: Novos Números [NÚMERO 17]:
+
+→ Comentário: Esta funcionalidade retorna ao input de entrada de valores perguntado ao início do programa.
 
 ![a](https://user-images.githubusercontent.com/84475339/165999576-be65ad3a-40f0-4059-b919-ce863596ca31.png)
 
-Resultado da Funcionalidade: Sair do Programa [NÚMERO 18]:
+=================================================================
+
+● Resultado da Funcionalidade: Sair do Programa [NÚMERO 18]:
 
 ![a](https://user-images.githubusercontent.com/84475339/165999776-66cfdc10-5886-4ef4-9ca9-5d8b1866673a.png)
 
