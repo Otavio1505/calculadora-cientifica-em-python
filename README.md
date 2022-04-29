@@ -23,13 +23,17 @@ A seguir será mostrado, todas as funcionalidades presentes no projeto e suas re
 
 ![a](https://user-images.githubusercontent.com/84475339/165632292-0e07a541-136d-4c4d-acfc-71c71615b3fb.png)
 
+=================================================================
+
 ● Resultado da Funcionalidade: Multiplicar [NÚMERO 2]:
 
 ![image](https://user-images.githubusercontent.com/84475339/165849477-4f9ae453-5d55-49cb-9434-dbe443cbfe4e.png)
 
+=================================================================
+
 ● Resultado da Funcionalidade: Subtração [NÚMERO 3]:
 
-  *Comentário: Será subtraído o primeiro valor digitado, pelo segundo valor digitado, podendo assim gerar resultado negativos, portanto atenção.
+*Comentário: Será subtraído o primeiro valor digitado, pelo segundo valor digitado, podendo assim gerar resultado negativos, portanto atenção.
 
 ![a](https://user-images.githubusercontent.com/84475339/165850728-9ed3b9e9-860e-47be-8d65-88900eb1c836.png)
 
@@ -43,7 +47,7 @@ A seguir será mostrado, todas as funcionalidades presentes no projeto e suas re
 
 Resultado da Funcionalidade: Divisão(Maior/Menor) [NÚMERO 6]:
 
-  *Comentário: A divisão irá considerá o maior número como o Numerador e o menor número como o Denominador.
+*Comentário: A divisão irá considerá o maior número como o Numerador e o menor número como o Denominador.
 
 ![a](https://user-images.githubusercontent.com/84475339/165994254-899a4a76-5fd9-4ff3-9e69-6d2180982bcc.png)
 
@@ -65,7 +69,7 @@ Resultado da Funcionalidade: Tabuada [NÚMERO 10]:
 
 Resultado da Funcionalidade: X° para Radiano // X° para Radiano [NÚMERO 11]:
 
-  *Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
+*Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
 
 ![a](https://user-images.githubusercontent.com/84475339/165997254-9328818b-2647-40d6-bc30-dd270eb9cf1e.png)
 
@@ -79,19 +83,32 @@ Resultado da Funcionalidade: Calcular Hipotenusa [NÚMERO 13]:
 
 Resultado da Funcionalidade: Fibonacci [NÚMERO 14]:
 
-  *Comentário: Os valores digitados pelo usuário serão referentes a quantidade de números da sequência de Fibonacci que serão impressos, como no exemplo, os inputs digitados foram: 8 e 5, dessa forma, serão impressos os 8 primeiros números da sequência no primeiro resultado e os 5 primeiros números da sequência de Fibonacci no segundo resultado.
+*Comentário: Os valores digitados pelo usuário serão referentes a quantidade de números da sequência de Fibonacci que serão impressos, como no exemplo, os inputs digitados foram: 8 e 5, dessa forma, serão impressos os 8 primeiros números da sequência no primeiro resultado e os 5 primeiros números da sequência de Fibonacci no segundo resultado.
 
 ![a](https://user-images.githubusercontent.com/84475339/165998142-7e5700be-76a8-465d-b79f-4797f002c7d1.png)
 
 Resultado da Funcionalidade: Converter X°C e X°C para Fahrenheit [NÚMERO 15]:
-*digitar adendo
-x
+
+*Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
+
+![a](https://user-images.githubusercontent.com/84475339/165998927-22bf6994-3416-48a2-ae67-34fff66cc39a.png)
+
 Resultado da Funcionalidade: Mais informações [NÚMERO 16]:
-x
+
+![a](https://user-images.githubusercontent.com/84475339/165999386-560a7296-64a2-4ecf-ac3c-3a36f6b8a88c.png)
+
 Resultado da Funcionalidade: Novos Números [NÚMERO 17]:
-*digitar adendo
-x
-Resultado da Funcionalidade: Novos Números [NÚMERO 18]:
-x
+
+*Comentário: Esta funcionalidade retorna ao input de entrada de valores perguntado ao início do programa.
+
+![a](https://user-images.githubusercontent.com/84475339/165999576-be65ad3a-40f0-4059-b919-ce863596ca31.png)
+
+Resultado da Funcionalidade: Sair do Programa [NÚMERO 18]:
+
+![a](https://user-images.githubusercontent.com/84475339/165999776-66cfdc10-5886-4ef4-9ca9-5d8b1866673a.png)
 
 Encerramento do programa.
+
+
+# Autor
+Otávio Moraes Braga
