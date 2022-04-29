@@ -42,6 +42,7 @@ A seguir será mostrado, todas as funcionalidades presentes no projeto e suas re
 ![a](https://user-images.githubusercontent.com/84475339/165994165-daa6c294-f6c4-4523-a7dd-b21f968c94bf.png)
 
 Resultado da Funcionalidade: Divisão(Maior/Menor) [NÚMERO 6]:
+
 *Comentário: A divisão irá considerá o maior número como o Numerador e o menor número como o Denominador.
 
 ![a](https://user-images.githubusercontent.com/84475339/165994254-899a4a76-5fd9-4ff3-9e69-6d2180982bcc.png)
@@ -63,6 +64,7 @@ Resultado da Funcionalidade: Tabuada [NÚMERO 10]:
 ![a](https://user-images.githubusercontent.com/84475339/165996445-5abcc764-2276-4d8f-9827-162861a7e313.png)
 
 Resultado da Funcionalidade: X° para Radiano // X° para Radiano [NÚMERO 11]:
+
 *Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
 
 ![a](https://user-images.githubusercontent.com/84475339/165996670-3967ad92-0c4a-4da6-ae19-13f40a464bd4.png)
