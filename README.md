@@ -39,21 +39,34 @@ A seguir será mostrado, todas as funcionalidades presentes no projeto e suas re
 
 ● Resultado da Funcionalidade: Maior número e Menor número [NÚMERO 5]:
 
-![a](https://user-images.githubusercontent.com/84475339/165993719-33c6b8d5-0eda-4621-aed2-f19b086a5fee.png)
+![a](https://user-images.githubusercontent.com/84475339/165994165-daa6c294-f6c4-4523-a7dd-b21f968c94bf.png)
 
 Resultado da Funcionalidade: Divisão(Maior/Menor) [NÚMERO 6]:
-*digitar adendo
+*Comentário: A divisão irá considerá o maior número como o Numerador e o menor número como o Denominador.
+
+![a](https://user-images.githubusercontent.com/84475339/165994254-899a4a76-5fd9-4ff3-9e69-6d2180982bcc.png)
+
 Resultado da Funcionalidade: Fatorial [NÚMERO 7]:
-x
+
+![a](https://user-images.githubusercontent.com/84475339/165994524-11edca17-608c-4d92-8b12-71a5b4bfcff5.png)
+
 Resultado da Funcionalidade: Raiz Quadrada [NÚMERO 8]:
-x
+
+![a](https://user-images.githubusercontent.com/84475339/165996198-a74c4497-ab59-434b-b0ac-7d4bd656b328.png)
+
 Resultado da Funcionalidade: Elevado ao Quadrado/Cubo [NÚMERO 9]:
-x
+
+![a](https://user-images.githubusercontent.com/84475339/165996289-1780d76b-bc4b-4f5f-b44e-1169bb2b5a1a.png)
+
 Resultado da Funcionalidade: Tabuada [NÚMERO 10]:
-x
+
+![a](https://user-images.githubusercontent.com/84475339/165996445-5abcc764-2276-4d8f-9827-162861a7e313.png)
+
 Resultado da Funcionalidade: X° para Radiano // X° para Radiano [NÚMERO 11]:
-*digitar adendo
-x
+*Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
+
+![a](https://user-images.githubusercontent.com/84475339/165996670-3967ad92-0c4a-4da6-ae19-13f40a464bd4.png)
+
 Resultado da Funcionalidade: Seno/Cosseno/Tangente [NÚMERO 12]:
 x
 Resultado da Funcionalidade: Calcular Hipotenusa [NÚMERO 13]:
