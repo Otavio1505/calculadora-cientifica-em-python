@@ -67,15 +67,21 @@ Resultado da Funcionalidade: X° para Radiano // X° para Radiano [NÚMERO 11]:
 
 *Comentário: O X° será substituído pelos dois valores digitados pelo usuário.
 
-![a](https://user-images.githubusercontent.com/84475339/165996670-3967ad92-0c4a-4da6-ae19-13f40a464bd4.png)
+![a](https://user-images.githubusercontent.com/84475339/165997254-9328818b-2647-40d6-bc30-dd270eb9cf1e.png)
 
 Resultado da Funcionalidade: Seno/Cosseno/Tangente [NÚMERO 12]:
-x
+
+![a](https://user-images.githubusercontent.com/84475339/165997473-963bc472-7bc1-47cd-8529-850dd88d167e.png)
+
 Resultado da Funcionalidade: Calcular Hipotenusa [NÚMERO 13]:
-x
+
+![a](https://user-images.githubusercontent.com/84475339/165997752-d0276549-d91a-4def-a049-6a4ed3c3cc32.png)
+
 Resultado da Funcionalidade: Fibonacci [NÚMERO 14]:
-*digitar adendo
-x
+*Comentário: Os valores digitados pelo usuário serão referentes a quantidade de números da sequência de Fibonacci que serão digitados, como no exemplo, os inputs digitados foram: 8 e 5, dessa forma, serão impressos os 8 primeiros números da sequência no primeiro resultado e os 5 primeiros números da sequência de Fibonacci no segundo resultado.
+
+![a](https://user-images.githubusercontent.com/84475339/165998142-7e5700be-76a8-465d-b79f-4797f002c7d1.png)
+
 Resultado da Funcionalidade: Converter X°C e X°C para Fahrenheit [NÚMERO 15]:
 *digitar adendo
 x
