@@ -79,7 +79,7 @@ Resultado da Funcionalidade: Calcular Hipotenusa [NÚMERO 13]:
 
 Resultado da Funcionalidade: Fibonacci [NÚMERO 14]:
 
-  *Comentário: Os valores digitados pelo usuário serão referentes a quantidade de números da sequência de Fibonacci que serão digitados, como no exemplo, os inputs digitados foram: 8 e 5, dessa forma, serão impressos os 8 primeiros números da sequência no primeiro resultado e os 5 primeiros números da sequência de Fibonacci no segundo resultado.
+  *Comentário: Os valores digitados pelo usuário serão referentes a quantidade de números da sequência de Fibonacci que serão impressos, como no exemplo, os inputs digitados foram: 8 e 5, dessa forma, serão impressos os 8 primeiros números da sequência no primeiro resultado e os 5 primeiros números da sequência de Fibonacci no segundo resultado.
 
 ![a](https://user-images.githubusercontent.com/84475339/165998142-7e5700be-76a8-465d-b79f-4797f002c7d1.png)
 
